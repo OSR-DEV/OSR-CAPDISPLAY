@@ -1,0 +1,18 @@
+C:\Users\Admin\source\repos\Open Screen Recoder ( OSR )\Open Screen Recoder ( OSR )\bin\Debug\net5.0-windows\Open Screen Recoder ( OSR ).exe
+C:\Users\Admin\source\repos\Open Screen Recoder ( OSR )\Open Screen Recoder ( OSR )\bin\Debug\net5.0-windows\Open Screen Recoder ( OSR ).deps.json
+C:\Users\Admin\source\repos\Open Screen Recoder ( OSR )\Open Screen Recoder ( OSR )\bin\Debug\net5.0-windows\Open Screen Recoder ( OSR ).runtimeconfig.json
+C:\Users\Admin\source\repos\Open Screen Recoder ( OSR )\Open Screen Recoder ( OSR )\bin\Debug\net5.0-windows\Open Screen Recoder ( OSR ).runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Open Screen Recoder ( OSR )\Open Screen Recoder ( OSR )\bin\Debug\net5.0-windows\Open Screen Recoder ( OSR ).dll
+C:\Users\Admin\source\repos\Open Screen Recoder ( OSR )\Open Screen Recoder ( OSR )\bin\Debug\net5.0-windows\ref\Open Screen Recoder ( OSR ).dll
+C:\Users\Admin\source\repos\Open Screen Recoder ( OSR )\Open Screen Recoder ( OSR )\bin\Debug\net5.0-windows\Open Screen Recoder ( OSR ).pdb
+C:\Users\Admin\source\repos\Open Screen Recoder ( OSR )\Open Screen Recoder ( OSR )\obj\Debug\net5.0-windows\Open Screen Recoder ( OSR ).vbprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Open Screen Recoder ( OSR )\Open Screen Recoder ( OSR )\obj\Debug\net5.0-windows\Open_Screen_Recoder___OSR__.Form1.resources
+C:\Users\Admin\source\repos\Open Screen Recoder ( OSR )\Open Screen Recoder ( OSR )\obj\Debug\net5.0-windows\Open Screen Recoder ( OSR ).vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Open Screen Recoder ( OSR )\Open Screen Recoder ( OSR )\obj\Debug\net5.0-windows\Open Screen Recoder ( OSR ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Open Screen Recoder ( OSR )\Open Screen Recoder ( OSR )\obj\Debug\net5.0-windows\Open Screen Recoder ( OSR ).AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Open Screen Recoder ( OSR )\Open Screen Recoder ( OSR )\obj\Debug\net5.0-windows\Open Screen Recoder ( OSR ).AssemblyInfo.vb
+C:\Users\Admin\source\repos\Open Screen Recoder ( OSR )\Open Screen Recoder ( OSR )\obj\Debug\net5.0-windows\Open Screen Recoder ( OSR ).vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Open Screen Recoder ( OSR )\Open Screen Recoder ( OSR )\obj\Debug\net5.0-windows\Open Screen Recoder ( OSR ).dll
+C:\Users\Admin\source\repos\Open Screen Recoder ( OSR )\Open Screen Recoder ( OSR )\obj\Debug\net5.0-windows\ref\Open Screen Recoder ( OSR ).dll
+C:\Users\Admin\source\repos\Open Screen Recoder ( OSR )\Open Screen Recoder ( OSR )\obj\Debug\net5.0-windows\Open Screen Recoder ( OSR ).pdb
+C:\Users\Admin\source\repos\Open Screen Recoder ( OSR )\Open Screen Recoder ( OSR )\obj\Debug\net5.0-windows\Open Screen Recoder ( OSR ).genruntimeconfig.cache
